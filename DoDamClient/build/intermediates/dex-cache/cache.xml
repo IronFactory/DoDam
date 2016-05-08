@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/IronFactory/AndroidStudioProjects/Dodam/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/IronFactory/AndroidStudioProjects/Dodam/app/build/intermediates/pre-dexed/debug/classes-f6d858cfb1ae0e23dcebd24f11cfc7c1057c567a.jar" />
+    </item>
+    <item
+        jar="/Users/IronFactory/.gradle/caches/modules-2/files-2.1/com.github.nkzawa/socket.io-client/0.3.0/8dfd7cf8d1124acb027b3ffd53eafcc518af3ba9/socket.io-client-0.3.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8dfd7cf8d1124acb027b3ffd53eafcc518af3ba9">
+        <dex dex="/Users/IronFactory/AndroidStudioProjects/Dodam/app/build/intermediates/pre-dexed/debug/socket.io-client-0.3.0-b73f2045af1ab3d573c49a02011bb635e035972e.jar" />
+    </item>
+    <item
+        jar="/Users/IronFactory/AndroidStudioProjects/Dodam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/IronFactory/AndroidStudioProjects/Dodam/app/build/intermediates/pre-dexed/debug/classes-461994f8dcfaa0f9041a87af06a5b13562a8932f.jar" />
+    </item>
+    <item
+        jar="/Users/IronFactory/AndroidStudioProjects/Dodam/app/build/intermediates/exploded-aar/com.nispok/snackbar/2.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0db114dc90b3e192ba48d22421a9c47cfc01f00">
+        <dex dex="/Users/IronFactory/AndroidStudioProjects/Dodam/app/build/intermediates/pre-dexed/debug/classes-335208d6b9e6df5408c98374ba03c36fa3765d9d.jar" />
+    </item>
+    <item
+        jar="/Users/IronFactory/.gradle/caches/modules-2/files-2.1/org.java-websocket/Java-WebSocket/1.3.0/db2658f013fb163de4a99274c2eb9e17efe535d2/Java-WebSocket-1.3.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="db2658f013fb163de4a99274c2eb9e17efe535d2">
+        <dex dex="/Users/IronFactory/AndroidStudioProjects/Dodam/app/build/intermediates/pre-dexed/debug/Java-WebSocket-1.3.0-90c80f70be3817310bd623be8aedea93eaefad6b.jar" />
+    </item>
+    <item
+        jar="/Users/IronFactory/AndroidStudioProjects/Dodam/app/build/intermediates/exploded-aar/com.getbase/floatingactionbutton/1.10.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f40cf334cdc8b098b74312e21c7741c6eefbeb0e">
+        <dex dex="/Users/IronFactory/AndroidStudioProjects/Dodam/app/build/intermediates/pre-dexed/debug/classes-85e5f6f3ed2261b3e6cb23a1949193b439212a9a.jar" />
+    </item>
+    <item
+        jar="/Users/IronFactory/.gradle/caches/modules-2/files-2.1/com.github.nkzawa/engine.io-client/0.3.1/3ca9d0d53a27ecb88538ed874be417cfa827db5d/engine.io-client-0.3.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3ca9d0d53a27ecb88538ed874be417cfa827db5d">
+        <dex dex="/Users/IronFactory/AndroidStudioProjects/Dodam/app/build/intermediates/pre-dexed/debug/engine.io-client-0.3.1-111328f3c60e756487e84f936f595685850c821b.jar" />
+    </item>
+    <item
+        jar="/Users/IronFactory/AndroidStudioProjects/Dodam/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/Users/IronFactory/AndroidStudioProjects/Dodam/app/build/intermediates/pre-dexed/debug/classes-2cc9c8911c54ec07a2abe41accb9c581855fac5a.jar" />
+    </item>
+    <item
+        jar="/Users/IronFactory/AndroidStudioProjects/Dodam/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/Users/IronFactory/AndroidStudioProjects/Dodam/app/build/intermediates/pre-dexed/debug/classes-076eff0f98921584c8ae5e3577bd1f9a40907085.jar" />
+    </item>
+    <item
+        jar="/Users/IronFactory/AndroidStudioProjects/Dodam/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/IronFactory/AndroidStudioProjects/Dodam/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-ef22f6214aecb877fc261bc744f6e3142082ea1d.jar" />
+    </item>
+    <item
+        jar="/Users/IronFactory/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/IronFactory/AndroidStudioProjects/Dodam/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-c6b956e44c2d2643677e1c853603b74c5f1e05ae.jar" />
+    </item>
+
+</items>

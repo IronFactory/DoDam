@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DodamDodam</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_write">WriteActivity</string>
+    <string name="title_activity_word">WordActivity</string>
+    <string name="title_activity_view">ViewActivity</string>
+</resources>

@@ -1,0 +1,79 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/activity_write_container"
+    tools:context=".controller.activity.writeActivity">
+
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/activity_write_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/main">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/activity_write_back_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:textColor="#FFFFFF"
+                android:gravity="left|center_vertical"
+                android:layout_alignParentLeft="true"
+                android:textSize="20sp"
+                android:background="@android:color/transparent"/>
+
+
+            <ImageButton
+                android:id="@+id/activity_write_submit"
+                android:layout_width="48dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/submit"
+                android:scaleType="fitCenter"
+                android:gravity="right|center_vertical"
+                android:paddingRight="16dp"
+                android:paddingLeft="8dp"
+                android:textColor="#FFFFFF"
+                android:layout_alignParentRight="true"
+                android:background="@android:color/transparent"/>
+
+
+        </RelativeLayout>
+
+
+    </android.support.v7.widget.Toolbar>
+
+
+    <Spinner
+        android:id="@+id/activity_write_spinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="4dp"
+        android:layout_gravity="center"
+        android:layout_margin="16dp"
+        android:entries="@array/feel"/>
+
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp">
+
+        <EditText
+            android:id="@+id/write_edit_text"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingTop="8dp"
+            android:background="@android:color/transparent"
+            android:gravity="top"
+            android:hint="일기를 입력하세요" />
+
+    </android.support.design.widget.TextInputLayout>
+
+
+</LinearLayout>
